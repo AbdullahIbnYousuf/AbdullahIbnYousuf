@@ -1,6 +1,11 @@
-# Hi there! 👋 I'm Abdullah Ibn Yousuf
+<div  align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhtZG96cGhhaGZjcnY4ajBuMjI1MTFscnpoMDhmbXF4YnM0amFxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
+</div>
 
-**Aspiring Programmer | Student**  
+
+# Hello World! 👋 I'm Abdullah Ibn Yousuf
+
+**Aspiring Programmer || Student**  
 I’m currently on an exciting journey of learning and growing as a programmer. While I’m skilled in **C** and **C++**, I’m always eager to expand my knowledge and tackle new challenges in the world of technology.
 
 ---
