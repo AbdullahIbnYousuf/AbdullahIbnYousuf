@@ -28,3 +28,10 @@ I haven’t started any major projects yet, but I’m preparing to dive into pro
 ---
 
 Feel free to check out my repositories and follow me as I grow and share my programming journey! 🚀  
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahIbnYousuf/AbdullahIbnYousuf/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahIbnYousuf/AbdullahIbnYousuf/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbdullahIbnYousuf/AbdullahIbnYousuf/output/github-snake.svg" />
+</picture>
