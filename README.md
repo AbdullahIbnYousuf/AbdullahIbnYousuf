@@ -34,8 +34,7 @@ I haven’t started any major projects yet, but I’m preparing to dive into pro
   <img alt="github-snake" src="https://raw.githubusercontent.com/AbdullahIbnYousuf/AbdullahIbnYousuf/output/github-snake.svg" />
 </picture>
 
-## 📫 Let's Connect
-- **Resume:** [resume](https://docs.google.com/document/d/181TaEjFYTp6CzhqFYcMIfBiKTIj6l8_z/edit?usp=drive_link&ouid=107141451440576714846&rtpof=true&sd=true)
 
 ---
-Feel free to check out my repositories and follow me as I grow and share my programming journey! 🚀  
+Feel free to check out my repositories and follow me as I grow and share my programming journey! 🚀  <br>
+[Resume](https://docs.google.com/document/d/181TaEjFYTp6CzhqFYcMIfBiKTIj6l8_z/edit?usp=drive_link&ouid=107141451440576714846&rtpof=true&sd=true)
