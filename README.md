@@ -37,4 +37,4 @@ I haven’t started any major projects yet, but I’m preparing to dive into pro
 
 ---
 Feel free to check out my repositories and follow me as I grow and share my programming journey! 🚀  <br>
-[Resume](https://docs.google.com/document/d/181TaEjFYTp6CzhqFYcMIfBiKTIj6l8_z/edit?usp=drive_link&ouid=107141451440576714846&rtpof=true&sd=true)
+[Resume](https://drive.google.com/file/d/1MRj2pRmqjC_uMT6Bg7pgN5-hs2J1Kydp/view?usp=drive_link)
